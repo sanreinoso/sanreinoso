@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanreinoso
-- 👀 I’m interested in AI, Data Science, GraphQL and Angular projects.
-- 🌱 I’m currently learning GraphQL and mobile applications
-- 💞️ I’m looking to collaborate on Angular projects
+- 👀 I'm interested in projects centered on cloud, scalable, and distributed deployments.
+- 🌱 I'm currently working as a backend engineer with a strong approach to the Devops side of the business.
+- 💞️ I’m looking to collaborate on Angular and React projects
 
 
 <!---
